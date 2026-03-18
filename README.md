@@ -1,86 +1,83 @@
-# 👋 Hi, I'm Milind Verma
+# Hi, I'm Milind Verma
 
-🎓 B.Tech CSE Student @ VIT Bhopal  
-💡 Passionate about Machine Learning, Data Science & Real-World Problem Solving  
-🚀 Building intelligent systems using AI & Python  
+B.Tech Computer Science Engineering Student at VIT Bhopal  
+Interested in Machine Learning, Data Science, and real-world problem solving  
+Focused on building intelligent systems using AI and Python  
 
 ---
 
 ## 🎥 Introduction Video
 
-Get to know me better through this short introduction video where I talk about my skills, projects, and interests:
+Learn more about me through this short introduction video where I discuss my skills, projects, and interests:
 
-🔗 [Watch My Intro Video](https://drive.google.com/file/d/1SIUl-frQ18ONEguyrh8-5jFKe_oh2yke/view?usp=sharing)
+🔗 Watch My Intro Video:  
+https://drive.google.com/file/d/1SIUl-frQ18ONEguyrh8-5jFKe_oh2yke/view?usp=sharing
 
-💬 *In this video, I share my journey, key projects like emotion detection & recommendation systems, and my passion for AI and problem-solving.*
-
----
-
-## 🔧 Tech Stack
-
-- **Languages:** Python, Java  
-- **Libraries & Frameworks:** Scikit-learn, Pandas, NumPy, Matplotlib  
-- **Tools & Platforms:** AWS, Jupyter Notebook  
-- **Database:** MySQL (Basic)  
+💬 In this video, I share my journey, key projects such as emotion detection and recommendation systems, and my interest in AI and problem-solving.
 
 ---
 
-## 🚀 Projects
+##  Technical Skills
 
-### 🧠 Facial Emotion & Mental Health Detection
-- Built a machine learning system to detect emotions using facial expressions  
-- Used OpenCV and computer vision techniques  
+**Languages:** Python, Java  
+**Libraries and Frameworks:** Scikit-learn, Pandas, NumPy, Matplotlib  
+**Tools and Platforms:** AWS, Jupyter Notebook  
+**Database:** MySQL (Basic)  
+
+---
+
+##  Projects
+
+###  Facial Emotion and Mental Health Detection
+- Developed a machine learning system to detect emotions using facial expressions  
+- Applied OpenCV and computer vision techniques  
 - Mapped emotional states to mental well-being patterns  
 
----
-
-### 🎬 Movie Recommendation System
-- Developed a content-based recommendation engine  
+###  Movie Recommendation System
+- Built a content-based recommendation system  
 - Used cosine similarity to match user preferences  
-- Improved recommendation accuracy using data processing  
+- Improved recommendation accuracy through data processing  
 
----
-
-### 🚗 SuMoPy (Sustainable Mobility with Python)
+###  SuMoPy (Sustainable Mobility with Python)
 - Designed a route optimization system  
-- Focused on eco-friendly and efficient travel solutions  
+- Focused on efficient and sustainable travel solutions  
 - Used data analysis and optimization techniques  
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-- Google (Coursera) – *The Bits and Bytes of Computer Networking*  
-- NPTEL – *Introduction to Machine Learning*  
-
----
-
-## 🏆 Leadership & Activities
-
-- **President**, Null Student Chapter (VIT Bhopal)  
-  - Conducted cybersecurity workshops for 100+ students  
-  - Organized technical events and collaborations  
-
-- **PR Lead**, Hindi Club  
-  - Managed promotions for events with 500+ participants  
-  - Coordinated with administration and external partners  
+- Google (Coursera): The Bits and Bytes of Computer Networking  
+- NPTEL: Introduction to Machine Learning  
 
 ---
 
-## 📫 Connect With Me
+##  Leadership and Activities
 
-- 📧 Email: anshverma24112005@gmail.com  
-- 📱 Phone: +91 7037917441  
-- 💼 LinkedIn: [Milind Verma](https://www.linkedin.com/in/milind-verma-8aa10a308/)
+**President, Null Student Chapter (VIT Bhopal)**  
+- Conducted cybersecurity workshops for over 100 students  
+- Organized technical events and collaborations  
 
----
-
-## 🌟 Goals
-
-- To build impactful AI-driven applications  
-- To contribute to open-source projects  
-- To continuously learn and grow in tech  
+**PR Lead, Hindi Club**  
+- Managed promotions for events with over 500 participants  
+- Coordinated with administration and external organizations  
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+##  Contact
+
+📧 College Email: milind.23bce11695@vitbhopal.ac.in  
+📧 Personal Email: anshverma24112005@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/milind-verma-8aa10a308/  
+
+---
+
+##  Goals
+
+- Build impactful AI-driven applications  
+- Contribute to open-source projects  
+- Continuously learn and grow in technology  
+
+---
+
+⭐ If you find my work interesting, feel free to explore my repositories.
