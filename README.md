@@ -10,7 +10,7 @@
 
 Get to know me better through this short introduction video where I talk about my skills, projects, and interests:
 
-🔗 [Watch My Intro Video]([PASTE_YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1SIUl-frQ18ONEguyrh8-5jFKe_oh2yke/view?usp=sharing))
+🔗 [Watch My Intro Video](https://drive.google.com/file/d/1SIUl-frQ18ONEguyrh8-5jFKe_oh2yke/view?usp=sharing)
 
 💬 *In this video, I share my journey, key projects like emotion detection & recommendation systems, and my passion for AI and problem-solving.*
 
@@ -71,7 +71,7 @@ Get to know me better through this short introduction video where I talk about m
 
 - 📧 Email: anshverma24112005@gmail.com  
 - 📱 Phone: +91 7037917441  
-- 💼 LinkedIn: [[Add Your LinkedIn Link Here](https://www.linkedin.com/in/milind-verma-8aa10a308/)]
+- 💼 LinkedIn: [Milind Verma](https://www.linkedin.com/in/milind-verma-8aa10a308/)
 
 ---
 
